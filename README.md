@@ -29,7 +29,7 @@
    Make sure SFML is installed on your machine. You can download it from [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)
 
 2. **Build the Game**
- Directly download the Game.zip and you will get cpp file along with other required media in game.
+  Directly download the Game.zip and you will get cpp file along with other required media in game.
 
 ---
 
@@ -46,7 +46,7 @@
 - The game ends when the player collides with an obstacle  
 - Obstacles speed depends on the level 
 
----.
+---
 
 ## 👥 Contributors
 
