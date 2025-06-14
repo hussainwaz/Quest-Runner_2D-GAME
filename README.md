@@ -53,7 +53,7 @@
 - [Muhammad Hussain Nawaz](https://github.com/hussainwaz)
 - [Abdul Hannan](https://github.com/RanaAbdulHannan)
 - [Muhammad Ahmed](https://github.com/ahmadbuilds)
-- [Haseeb Ahmed](https://github.com/)
+- [Haseeb Ahmed](https://github.com/Haseebahmad22)
   
 > **Institution**: FAST NUCES Lahore  
 > **Course**: Programming Fundamentals, Fall 2023
