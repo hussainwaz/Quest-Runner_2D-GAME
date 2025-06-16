@@ -47,6 +47,10 @@
 - Obstacles speed depends on the level 
 
 ---
+## Gameplay 
+![Gameplay Demo](QuestRunner.gif)
+
+---
 
 ## 👥 Contributors
 
